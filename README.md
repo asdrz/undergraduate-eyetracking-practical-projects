@@ -11,9 +11,9 @@ This project analyses eye-tracking data collected during a 3rd-year undergraduat
 
 ## Pipeline
 
-1. **Data cleaning:**
-2. **Feature extraction & mapping:**
-3. **Analysis & visualization:**
+1. **Data cleaning**
+2. **Feature extraction & mapping**
+3. **Analysis & visualization**
   
 ## Requirements & stack
 
